@@ -1,0 +1,24 @@
+{
+  "name": "typeScript-project-chain",
+  "version": "1.0.0",
+  "description": "typescript prjoect",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GwangGeun/typeScript-project-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GwangGeun/typeScript-project-chain/issues"
+  },
+  "homepage": "https://github.com/GwangGeun/typeScript-project-chain#readme",
+  "dependencies": {
+    "tsc-watch": "^4.1.0",
+    "typescript": "^3.7.5"
+  }
+}
