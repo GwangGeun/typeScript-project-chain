@@ -96,4 +96,4 @@ createNewBlock("second block");
 createNewBlock("third block");
 createNewBlock("fourth block");
 
-console.log(blockchain);
+//test
